@@ -1,0 +1,24 @@
+/* 
+   Localizable.strings
+   Army
+
+   Created by 小苏 on 11-6-24.
+   Copyright 2011 __MyCompanyName__. All rights reserved.
+*/
+
+
+//********************************************************************************************************
+//******************************登录数据*************************************************************************
+//********************************************************************************************************
+
+//D*****************************登录****************************************************D
+//M****************主界面
+HELLO            = "Hello \n Guys";
+HELLO2            = "===Hello \n Guys";
+MENU_ITEM_START = "Start";
+MENU_ITEM_LEADERBOARD = "Leaderboard";
+MENU_ITEM_HELP = "Help"
+MENU_ITEM_RESUME = "Continue"
+MENU_ITEM_EXIT = "Return Main Menu"
+MENU_ITEM_RESTART = "Restart"
+
